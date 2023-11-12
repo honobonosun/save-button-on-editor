@@ -3,6 +3,10 @@
 	"displayName": "Save button on editor",
 	"description": "Added a save button to the editor.",
 	"publisher": "honobonosun",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/honobonosun/save-button-on-editor.git"
+	},
 	"version": "1.0.0",
 	"engines": {
 		"vscode": "^1.84.0"
